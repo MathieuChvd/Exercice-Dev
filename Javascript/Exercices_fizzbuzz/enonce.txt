@@ -1,6 +1,0 @@
-Dans la console, afficher les nombres de 1 à 200
-
-SAUF
-si le nombre est multiple de 3, afficher Fizz
-si le nombre est multiple de 5, afficher Buzz
-si le nombre est multiple de 3 ET 5, afficher FizzBuzz
